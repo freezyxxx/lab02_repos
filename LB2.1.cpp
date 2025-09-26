@@ -1,3 +1,9 @@
+// LB2.1.cpp
+// Даниленко Микола>
+// Лабораторна робота № 2.1.
+// Лінійні програми.
+// Варіант 4
+
 #include <iostream>
 #include <cmath>
 using namespace std;
